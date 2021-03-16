@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ga Ram Lee"
 description              : "project blog for class in HAFS"
-url                      : "https://gleewrld.github.io"
+url                      : "https://leegaram5421.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leegaram5421/leegaram5421.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
