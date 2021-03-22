@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World!"
 ---
 
-# Welcome
+# Hi
 
 **Hello world**, this is my first blog post 
 
