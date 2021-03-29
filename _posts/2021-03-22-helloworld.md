@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Hello World!"
+title:  "Hello World!"
 ---
-# 초코 관찰 일지
-**Choco so cute**
-My plushie Choco is a little cute brown bear
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
