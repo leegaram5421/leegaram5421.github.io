@@ -116,7 +116,7 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "<i class="fab fa-instagram"></i>"
       # url: "https://www.instagram.com/on.off_glee/"
 # Site Footer
 footer:
