@@ -137,7 +137,7 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "<i class="fab fa-instagram"></i>"
       # url: "https://www.instagram.com/on.off_glee/"
 
 
