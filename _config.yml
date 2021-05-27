@@ -116,8 +116,8 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
-      icon: "<i class="fab fa-instagram"></i>"
-      # url: "https://www.instagram.com/on.off_glee/"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 # Site Footer
 footer:
   links:
@@ -137,8 +137,8 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "<i class="fab fa-instagram"></i>"
-      # url: "https://www.instagram.com/on.off_glee/"
+      icon: "fab fa-fw fa-instagram"
+      # url: 
 
 
 # Reading Files
