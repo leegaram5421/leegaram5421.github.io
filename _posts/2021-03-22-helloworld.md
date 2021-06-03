@@ -5,4 +5,5 @@ title:  "Hello World!"
 
 # First Post
 
-Hello world! This is my first post.
+<font color='cyan'>Hello world!</font> 
+<mark style='background-color: #fff5b1'>This is my first post.</mark>
