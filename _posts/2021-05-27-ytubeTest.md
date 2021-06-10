@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "내가 가장 좋아하는 노래"
+toc: true
+toc_sticky: true
+toc_label: "페이지 주요 목차"
 ---
 ### keshi - 2soon
 
